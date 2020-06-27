@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: dimgray;
+}
+
+h1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 34px;
+    font-family: arial;
+    color: #fff;
+}
